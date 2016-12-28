@@ -1,2 +1,2 @@
 # hello-world
-First GitHub repository 
+Randome textual description to test out updates w/ GitHub
